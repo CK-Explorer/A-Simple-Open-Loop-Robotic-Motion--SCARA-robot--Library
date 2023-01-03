@@ -1,0 +1,8 @@
+
+*.tex
+Documentation/pic/gear teeth.png
+Documentation/pic/skeleton_diagram.png
+Documentation/pic/special_design.png
+Documentation/Working Principle.synctex.gz
+.vscode/arduino.json
+.vscode/c_cpp_properties.json
