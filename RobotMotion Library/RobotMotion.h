@@ -252,16 +252,16 @@ public:
 protected:
 	/*Convert the coordinates of the positions to the angles.
 	*/
-	void coordinates2angle();
+	inline void coordinates2angle();
 
 	/*Remove the extra offset in z-axis.
 	*/
-	void offsetZaxis();
+	inline void offsetZaxis();
 
 	/*Convert the difference of angles in each transistions to the numbers
 	* of steps that are required to be executed by the stepper motor.
 	*/
-	void angle2step();
+	inline void angle2step();
 
 	/*An inline function for int motion(...):
 	* Its purpose is to reselect the suitable max cruising speed, 
