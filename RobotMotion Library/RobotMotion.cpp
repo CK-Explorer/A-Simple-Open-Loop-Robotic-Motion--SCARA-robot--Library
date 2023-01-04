@@ -109,13 +109,13 @@ int RobotMotion::cooordinates2step()
     return 0;
 }
 
-void RobotMotion::offsetZaxis()
+inline void RobotMotion::offsetZaxis()
 {
     for (int count = 0; count < no_Coordinates; count++)
         zNew[count] = position.z[count] - zOffset;
 }
 
-void RobotMotion::coordinates2angle()
+inline void RobotMotion::coordinates2angle()
 {
     for (int count = 0; count < no_Coordinates; count++)
     {
@@ -156,7 +156,7 @@ void RobotMotion::coordinates2angle()
     }
 }
 
-void RobotMotion::angle2step()
+inline void RobotMotion::angle2step()
 {
     for (int count = 1; count < no_Coordinates; count++)
     {
