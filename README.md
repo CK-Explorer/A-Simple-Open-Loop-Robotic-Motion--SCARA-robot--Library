@@ -1,6 +1,6 @@
-## :star2: A Simple Open Loop Robotic Motion (SCARA robot) Library
+## :star2: A Simple Open Loop Robotic Motion (SCARA robot) Arduino Library
 
-* This Arduino [library](RobotMotion%20Library) will move the SCARA robot's end effector from one point to another in a smooth motion.
+* This [Arduino library](RobotMotion%20Library) will move the SCARA robot's end effector from one point to another in a smooth motion.
 
 ## :robot: Brief Description
 
