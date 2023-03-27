@@ -23,7 +23,7 @@ Such motion is achieved by controlling the time intervals to move each step of t
 
 ### :running: Using the library
 
-[This page](Brief%20explanation.md)  consists of the steps required to use this library with its details in the [header file](RobotMotion%20Library/RobotMotion.h).
+[This page](RobotMotion%20Library/Brief%20explanation.md)  consists of the steps required to use this library with its details in the [header file](RobotMotion%20Library/RobotMotion.h).
 
 ### :test_tube: Examples
 
