@@ -1,5 +1,5 @@
 /*GitHub Page: https://github.com/CK-Explorer/A-Simple-Open-Loop-Robotic-Motion--SCARA-robot--Library
-* API tutorial: https://github.com/CK-Explorer/A-Simple-Open-Loop-Robotic-Motion--SCARA-robot--Library/blob/main/Brief%20explanation.md
+* API tutorial: https://github.com/CK-Explorer/A-Simple-Open-Loop-Robotic-Motion--SCARA-robot--Library/blob/main/RobotMotion%20Library/Brief%20explanation.md
 * Documentation: https://github.com/CK-Explorer/A-Simple-Open-Loop-Robotic-Motion--SCARA-robot--Library/blob/main/Documentation/Working%20Principle.pdf
 */
 
